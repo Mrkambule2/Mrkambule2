@@ -19,8 +19,8 @@ Tech stack
 - Infra / Tools: Docker, Redis, GitHub Actions, AWS
 
 Featured projects
-- Polite Panda — Live demo: https://polite-panda-8b2df1.netlify.app/
-- Adorable Bonbon — Live demo: https://adorable-bonbon-a031fd.netlify.app/
+- nextstepict — Live demo: https://polite-panda-8b2df1.netlify.app/
+- UMP Accommodations Platform — Live demo: https://adorable-bonbon-a031fd.netlify.app/
 - [project-three](https://github.com/Mrkambule2/project-three) — One-line highlight.
 
 What I bring
