@@ -1,4 +1,4 @@
-# Hi, I’m Muzi Nkambule (Mrkambule2) 👋
+# Hi, I’m Muzi Nkambule (Mrkambule2) 
 Full‑stack engineer • Problem solver • Open-source enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/Mrkambule2?label=Follow&style=social)](https://github.com/Mrkambule2)
