@@ -19,8 +19,8 @@ Tech stack
 - Infra / Tools: Docker, Redis, GitHub Actions, AWS
 
 Featured projects
-- [project-one](https://github.com/Mrkambule2/project-one) — Short one-line summary of what it does and why it’s useful.
-- [project-two](https://github.com/Mrkambule2/project-two) — One-line highlight (e.g., “CLI tool for X” or “Realtime dashboard for Y”).
+- Polite Panda — Live demo: https://polite-panda-8b2df1.netlify.app/
+- Adorable Bonbon — Live demo: https://adorable-bonbon-a031fd.netlify.app/
 - [project-three](https://github.com/Mrkambule2/project-three) — One-line highlight.
 
 What I bring
@@ -38,8 +38,8 @@ Get in touch
 ---
 
 Quick tips to keep it polished
-1. Replace the placeholder project links with your real repos.
-2. Update the featured project descriptions with accurate summaries.
+1. Replace the placeholder project repo links with your real GitHub repos (I linked live demos above).
+2. Update the featured project descriptions with accurate summaries and tech used.
 3. Add a short demo GIF or screenshot to each featured repo README.
 4. Pin 4–6 repos on your profile: mix production apps, tooling, and recent work.
 5. Keep the README concise and updated with your latest focus/roles.
